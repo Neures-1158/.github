@@ -1,0 +1,18 @@
+# Guide GitHub NEURES@1158
+
+Ce document décrit les règles internes pour l’utilisation de GitHub dans le groupe.
+
+## Workflow Git simplifié
+- Branche principale : `main`
+- Chaque étudiant ou membre crée une branche `prenom-sujet` :
+    - Exemple : `alice-swe-preproc`, `charles-thesis-figures`
+- Une fois le travail prêt → ouvrir une Pull Request
+- La PR doit être relue (au moins 1 review) avant merge
+- Pas de push direct sur `main`
+
+## Commits
+- Messages courts et clairs :  
+  `fix(data): correct missing values`  
+  `feat(plot): add SWE velocity figure`
+
+
