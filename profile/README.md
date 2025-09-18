@@ -4,4 +4,6 @@ At the intersection of **muscle physiology**, **respiratory neurophysiology**, a
 
 The NEURES group is led by [Damien Bachasson](https://github.com/dambach) and is part of the mixed joint research unit [UMR-S 1158 – Experimental & Clinical Respiratory Neurophysiology](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) based in Paris, France.
 
-Students and members can follow our contribution workflow in the [Guide GitHub NEURES](GuideGitHub_NEURES.md).
+Students and members, see :
+- Our contribution workflow in the [Guide GitHub NEURES](GuideGitHub_NEURES.md).
+- Guide for developments [Guide developpement Neures](GuideDvp_NEURES.md)

@@ -1,15 +1,19 @@
 # Guide GitHub NEURES@1158
 
+# Guide GitHub NEURES
+> **Note :** Nous ne travaillons que sur des dépôts privés. Toutes les contributions, développements et partages doivent se faire dans des repositories privés afin de garantir la confidentialité des projets.
+
 Ce document décrit les règles internes pour l’utilisation de GitHub dans le groupe.
 
 ## Avant de commencer
 
 - **Avoir un compte GitHub personnel** et être ajouté au groupe NEURES.  
   Les adresses `@sorbonne-universite.fr` sont éligibles à GitHub Pro via [GitHub Education](https://education.github.com/discount_requests/student_application).
+  Cela donne accès gratuitement à GitHub Copilot (assistant IA de programmation) et à de nombreuses ressources premium (actions, codespaces, outils avancés, etc.) utiles pour le développement et la collaboration.
 - **Installer un outil Git** :
   - option simple : [GitHub Desktop](https://desktop.github.com) (interface graphique) ;
-  - option avancée : Git en ligne de commande (`git`) + éditeur (VS Code, RStudio, etc.).
-- **Configurer votre identité Git** une fois sur votre ordinateur :
+  - option avancée : [Git en ligne de commande](https://git-scm.com/downloads) (`git`) + éditeur (VS Code, RStudio, etc.) 
+
 
 ## Vocabulaire rapide
 
@@ -55,10 +59,11 @@ Ce document décrit les règles internes pour l’utilisation de GitHub dans le 
 8. **Fusionner la PR**  
    _Après validation, vos modifications seront ajoutées à `main`._
 
-### Workflow illustré (exemple)
+### Workflow illustré 
 
 **Interface web GitHub**  
-1. Mettre `main` à jour : bouton `Sync fork` (si besoin) puis `Update branch`.  
+1. Mettre `main` à jour : bouton `Update branch` (si besoin) pour synchroniser avec la version la plus récente du dépôt.  
+  _NB : Nous ne travaillons pas avec des forks, mais uniquement avec des branches sur le dépôt privé du groupe sauf cas spécifiques._
 2. Créer une branche : bouton `Branch: main` → `Find or create a branch` → nommer `prenom-sujet`.  
 3. Modifier un fichier : `Add file` → `Edit file` (ou ouvrir un fichier et cliquer sur `✏️ Edit`).  
 4. Enregistrer l’étape : remplir le message de commit et cliquer sur `Commit changes`.  
@@ -156,14 +161,9 @@ Si vous souhaitez apprendre la ligne de commande Git (`git pull`, `git rebase`, 
 
 ---
 
-## Ressources utiles pour débuter
+## Ressources
 
-- [Introduction à Git et GitHub (français)](https://www.pentalog.fr/blog/formation-git-github/)
-- [Guide officiel GitHub pour les débutants (anglais)](https://docs.github.com/en/get-started/quickstart)
-- [Glossaire GitHub](https://docs.github.com/fr/get-started/quickstart/github-glossary)
-- [Template NEURES pour dépôt GitHub](lien_vers_le_template) <!-- À remplacer par le lien réel -->
-- [GitHub Desktop pour la recherche (vidéo 10 min)](https://www.youtube.com/watch?v=77W2JSL7-r8)
-- [Cheatsheet Git (PDF, fr)](https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf)
+- https://docs.github.com/fr
 
 ---
 
