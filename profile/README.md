@@ -1,4 +1,4 @@
-## Github of the NEURES research group 👋
+## Github of the NEURES research group 
 
 At the intersection of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group  works across disciplines to address critical challenges in respiratory health. We develop and apply both wet and dry biomarkers to elucidate the pathophysiological mechanisms underlying primary and secondary **muscle dysfunction**, with a particular focus on the respiratory muscles. Our research supports the development of innovative diagnostic and therapeutic strategies, including **artificial neurostimulation** and **mechanical ventilation**.
 
