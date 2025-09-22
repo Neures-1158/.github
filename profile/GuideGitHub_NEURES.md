@@ -59,13 +59,13 @@ Ce document décrit les règles internes pour l’utilisation de GitHub dans le 
 8. **Fusionner la PR**  
    _Après validation, vos modifications seront ajoutées à `main`._
 
-### Workflow illustré 
+### Workflow
 
 **Interface web GitHub**  
 1. Mettre `main` à jour : bouton `Update branch` (si besoin) pour synchroniser avec la version la plus récente du dépôt.  
-  _NB : Nous ne travaillons pas avec des forks, mais uniquement avec des branches sur le dépôt privé du groupe sauf cas spécifiques._
+  _NB : Nous ne travaillons pas avec des forks, mais uniquement avec des branches sur un dépôt privé du groupe sauf cas spécifiques._
 2. Créer une branche : bouton `Branch: main` → `Find or create a branch` → nommer `prenom-sujet`.  
-3. Modifier un fichier : `Add file` → `Edit file` (ou ouvrir un fichier et cliquer sur `✏️ Edit`).  
+3. Modifier, créer un/des fichiers
 4. Enregistrer l’étape : remplir le message de commit et cliquer sur `Commit changes`.  
 5. Ouvrir la Pull Request : bannière « Compare & pull request » → compléter la description et `Create pull request`.  
 _Pour aller plus loin : [Travailler avec des fichiers sur GitHub.com](https://docs.github.com/fr/repositories/working-with-files/managing-files/editing-files)._ 
@@ -128,8 +128,6 @@ Si vous souhaitez apprendre la ligne de commande Git (`git pull`, `git rebase`, 
   Si un fichier de résultats est léger (par exemple dans le dossier `results`), il peut être suivi par Git et partagé dans le dépôt.
 - **Voir le template de dépôt pour plus de détails**  
   _Consultez le [modèle de dépôt NEURES](https://github.com/Neures-1158/Neures_template)._
-- **En cas de doute, demandez avant d’ajouter un fichier**  
-  _Une photo, un CSV volumineux ou un export clinique doivent être validés par l’équipe._
 
 ---
 

@@ -7,7 +7,7 @@
              └───────┬───────────┘
                      │ OUI
                      ▼
-            📓 Notebook (.qmd / .ipynb)
+            📓 Notebook (.qmd / .ipynb / marimo)
             - Tester, visualiser
             - Raconter (texte+figures)
             - Rapports, articles
