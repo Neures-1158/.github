@@ -1,5 +1,3 @@
-# Guide GitHub NEURES@1158
-
 # Guide GitHub NEURES
 > **Note :** Nous ne travaillons que sur des dépôts privés. Toutes les contributions, développements et partages doivent se faire dans des repositories privés afin de garantir la confidentialité des projets.
 
