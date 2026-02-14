@@ -1,10 +1,10 @@
 ![banner](banner.png)
 
-## NEURES research group 
+## Welcome !
 
-At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group  tackles critical challenges in respiratory health. We combine ultrafast ultrasound, molecular imaging, electrophysiology, and translational physiology to uncover how muscles, especially the diaphragm, function, fail, and recover. Our goal is to transform these insights into quantitative biomarkers that bridge fundamental physiology with real-world clinical practice.
+At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group  tackles critical challenges in respiratory health. We combine ultrafast ultrasound, molecular imaging, electrophysiology, and translational physiology to uncover how muscles, especially the diaphragm, operate, fail, and recover. Our aim is to convert these insights into quantitative biomarkers that bridge the gap between fundamental physiology and real-world clinical practice.
 
-This work drives the development of innovative diagnostics and therapies, including artificial neurostimulation and next-generation assisted ventilation.
+This work is driving the development of innovative diagnostic tools and interventions, including artificial neurostimulation and next-generation assisted ventilation.
 
 The NEURES group is led by [Damien Bachasson](https://github.com/dambach) and belongs to the joint research unit [UMR-S 1158 – Experimental & Clinical Respiratory Neurophysiology](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) based in Paris, France.
 
@@ -14,7 +14,6 @@ To measure, understand, and protect the muscles that drive every breath.
 ---
 
 👀 [Contribution guide](GuideGitHub_NEURES.md)
-
 
 <!--
 
