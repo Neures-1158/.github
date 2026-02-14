@@ -1,5 +1,5 @@
 # Guide GitHub NEURES
-> **Note :** Nous ne travaillons que sur des dépôts privés. Toutes les contributions, développements et partages doivent se faire dans des repositories privés afin de garantir la confidentialité des projets.
+> **Note :** Nous  travaillons initialement sur des dépôts privés. Toutes les contributions, développements et partages doivent se faire dans des repositories privés afin de garantir la confidentialité des projets.
 
 Ce document décrit les règles internes pour l’utilisation de GitHub dans le groupe.
 
@@ -171,5 +171,5 @@ Si vous souhaitez apprendre la ligne de commande Git (`git pull`, `git rebase`, 
 - **Toujours ouvrir une Pull Request pour proposer ses changements**
 - **Toujours demander au moins une relecture avant de fusionner**
 - **Toujours tester localement avant PR**
-- **Push régulier de votre branche pour backuper votre travail**
+- **Push régulier de votre branche pour sauvegarder votre travail**
 - **Ne jamais ajouter de données patient ni sensibles dans GitHub**
