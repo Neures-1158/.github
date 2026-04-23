@@ -1,10 +1,10 @@
 ![banner](banner.png)
 
-## Welcome !
 
-At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group  tackles critical challenges in respiratory health. We combine ultrafast ultrasound, molecular imaging, electrophysiology, and translational physiology to uncover how muscles, especially the diaphragm, operate, fail, and recover. Our aim is to convert these insights into quantitative biomarkers that bridge the gap between fundamental physiology and real-world clinical practice.
+## Welcome to the team 🙌
 
-This work is driving the development of innovative diagnostic tools and interventions, including artificial neurostimulation and next-generation assisted ventilation.
+
+At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group investigates how respiratory muscles, the diaphragm in particular, function, fail, and recover. Combining multimodal imaging (ultrafast ultrasound, shear wave elastography, molecular imaging), electrophysiology, and tissue-based analysis, we develop quantitative biomarkers that translate physiological insights into actionable metrics and bedside decisions. Our current work drives new diagnostic tools and therapeutic strategies, including muscle-informed assisted ventilation and neurostimulation.
 
 The NEURES group is led by [Damien Bachasson](https://github.com/dambach) and belongs to the joint research unit [UMR-S 1158 – Experimental & Clinical Respiratory Neurophysiology](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) based in Paris, France.
 
