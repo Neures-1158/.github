@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
 
-## Welcome to the team 🙌
+## NEURES group
 
 
 At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group investigates how respiratory muscles, the diaphragm in particular, function, fail, and recover. Combining multimodal imaging (ultrafast ultrasound, shear wave elastography, molecular imaging), electrophysiology, and tissue-based analysis, we develop quantitative biomarkers that translate physiological insights into actionable metrics and bedside decisions. Our current work drives new diagnostic tools and therapeutic strategies, including muscle-informed assisted ventilation and neurostimulation.
