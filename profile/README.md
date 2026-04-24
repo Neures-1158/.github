@@ -1,28 +1,46 @@
 ![banner](banner.png)
 
-## NEURES research group 
 
-At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the <span class="highlight">NEU</span>romuscular <span class="highlight">RES</span>piratory Pathophysiology & Therapies research group  tackles critical challenges in respiratory health. We combine ultrafast ultrasound, molecular imaging, electrophysiology, and translational physiology to uncover how muscles, especially the diaphragm, function, fail, and recover. Our goal is to transform these insights into quantitative biomarkers that bridge fundamental physiology with real-world clinical practice.
+## NEURES group
 
-This work drives the development of innovative diagnostics and therapies, including artificial neurostimulation and next-generation assisted ventilation.
+At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the **NEUromuscular RESpiratory Pathophysiology research group** investigates how respiratory muscles – the diaphragm in particular – function, fail, and recover. Combining multimodal imaging (ultrafast ultrasound, shear wave elastography, molecular imaging), electrophysiology, and tissue-based analysis, we develop quantitative biomarkers that translate physiological insights into actionable metrics and bedside decisions. Our current work drives new diagnostic tools and therapeutic strategies, including muscle-informed assisted ventilation and neurostimulation.
 
 The NEURES group is led by [Damien Bachasson](https://github.com/dambach) and belongs to the joint research unit [UMR-S 1158 – Experimental & Clinical Respiratory Neurophysiology](https://sante.sorbonne-universite.fr/structures-de-recherche/neurophysiologie-respiratoire-experimentale-et-clinique) based in Paris, France.
 
 ## Our vision
 To measure, understand, and protect the muscles that drive every breath.
 
+## Recent publications
+
+- Nierding A, Chamalet E, Similowski T, Gennisson J-L, and Bachasson D. (2026) Breath-by-breath parasternal intercostal muscle stiffening tracks inspiratory effort during graded inspiratory threshold loading in humans. Journal of Applied Physiology (Accepted)
+- Nierding A, Chamalet E, Goettelmann J, Brulon V, Similowski T, Gervais P, Besson FL, Gennisson J-L, and Bachasson D. (2026) First-in-humans evaluation of the metabolic response to loaded breathing across respiratory muscles: a PET-MRI study. Journal of Cachexia, Sarcopenia and Muscle (In revision R2).
+- Dres M, Doorduin J, Boussouar S, and Bachasson D. (2025) [Advancements in imaging techniques for monitoring the respiratory muscles](https://doi.org/10.1186/s13054-025-05339-1). _Critical Care_.
+- [Google scholar](https://scholar.google.fr/citations?hl=fr&pli=1&user=DNt--nsAAAAJ)
+
+## Collaborations
+- BioMaps, APHP, University of British Columbia, RadboudUMC
+
+## Open-source tools
+- [labchart_txt_parser](https://github.com/Neures-1158/labchart_txt_parser) — parse LabChart exports
+- [resp_metrics](https://github.com/Neures-1158/resp_metrics) — compute ventilatory variables from LabChart data
+
+
+<!-- ## Team
+- Damien Bachasson, PI 
+- Axel Nierding, PhD student
+- Arthur Begoc, PhD student
+- Eric Laurancon, PhD student
+- Armande Esnault, PhD student
+- Virgile Boulay, Undergraduate student
+- Sylvain Plateau, Undergraduate student -->
+
 ---
 
 👀 [Contribution guide](GuideGitHub_NEURES.md)
 
+---
 
-<!--
+## Contact
 
-**Here are some ideas to get you started:**
+damien.bachasson@inserm.fr
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
