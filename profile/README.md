@@ -1,7 +1,4 @@
-![banner](banner.png)
-
-
-## NEURES group
+![banner](banner_neures.png)
 
 At the crossroads of **muscle physiology**, **respiratory neurophysiology**, and **biomedical engineering**, the **NEUromuscular RESpiratory Pathophysiology research group** investigates how respiratory muscles – the diaphragm in particular – function, fail, and recover. Combining multimodal imaging (ultrafast ultrasound, shear wave elastography, molecular imaging), electrophysiology, and tissue-based analysis, we develop quantitative biomarkers that translate physiological insights into actionable metrics and bedside decisions. Our current work drives new diagnostic tools and therapeutic strategies, including muscle-informed assisted ventilation and neurostimulation.
 
@@ -18,29 +15,16 @@ To measure, understand, and protect the muscles that drive every breath.
 - [Google scholar](https://scholar.google.fr/citations?hl=fr&pli=1&user=DNt--nsAAAAJ)
 
 ## Collaborations
-- BioMaps, APHP, University of British Columbia, RadboudUMC
+- Mutimodal Biomedical Imaging Laboratory – BioMaps (Orsay, France), AP-HP university hospital centre (Paris, France), University of British Columbia, Radboud university medical center (Nijmegen, The Netherlands), Institute of Myology (Paris, France), University of Montevideo (Uruguay)
 
 ## Open-source tools
 - [labchart_txt_parser](https://github.com/Neures-1158/labchart_txt_parser) — parse LabChart exports
 - [resp_metrics](https://github.com/Neures-1158/resp_metrics) — compute ventilatory variables from LabChart data
 
-
-<!-- ## Team
-- Damien Bachasson, PI 
-- Axel Nierding, PhD student
-- Arthur Begoc, PhD student
-- Eric Laurancon, PhD student
-- Armande Esnault, PhD student
-- Virgile Boulay, Undergraduate student
-- Sylvain Plateau, Undergraduate student -->
-
----
-
-👀 [Contribution guide](GuideGitHub_NEURES.md)
-
----
-
 ## Contact
 
 damien.bachasson@inserm.fr
 
+---
+
+[Contribution guide](GuideGitHub_NEURES.md)
