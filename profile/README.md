@@ -9,9 +9,9 @@ To measure, understand, and protect the muscles that drive every breath.
 
 ## Recent publications
 
-- Nierding A, Chamalet E, Similowski T, Gennisson J-L, and Bachasson D. (2026) Breath-by-breath parasternal intercostal muscle stiffening tracks inspiratory effort during graded inspiratory threshold loading in humans. Journal of Applied Physiology (Accepted)
+- Nierding, A., Chamalet, E., Similowski, T., Gennisson, J. L. & Bachasson, D. Breath-by-breath parasternal intercostal muscle stiffening tracks inspiratory effort during graded inspiratory threshold loading in humans. J Appl Physiol (1985) (2026). https://doi.org/10.1152/japplphysiol.00160.2026
 - Nierding A, Chamalet E, Goettelmann J, Brulon V, Similowski T, Gervais P, Besson FL, Gennisson J-L, and Bachasson D. (2026) First-in-humans evaluation of the metabolic response to loaded breathing across respiratory muscles: a PET-MRI study. Journal of Cachexia, Sarcopenia and Muscle (In revision R2).
-- Dres M, Doorduin J, Boussouar S, and Bachasson D. (2025) [Advancements in imaging techniques for monitoring the respiratory muscles](https://doi.org/10.1186/s13054-025-05339-1). _Critical Care_.
+- Dres, M., Doorduin, J., Boussouar, S. & Bachasson, D. Advancements in imaging techniques for monitoring the respiratory muscles. Critical Care 29, 110 (2025). https://doi.org/10.1186/s13054-025-05339-1
 - [Google scholar](https://scholar.google.fr/citations?hl=fr&pli=1&user=DNt--nsAAAAJ)
 
 ## Collaborations
